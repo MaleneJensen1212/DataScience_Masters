@@ -38,3 +38,12 @@ Wang, R., Chen, F., Chen, Z., Li, T., Harari, G., Tignor, S., Zhou, X., Ben-Zeev
 Dataset access:
 StudentLife Dataset on Kaggle: https://www.kaggle.com/datasets/dartweichen/student-life 
 
+
+The code was conducted in Python 3.12 using Jupyter Notebook.
+
+With following imports:
+- pandas
+- numpy
+- scikit-learn
+- matplotlib
+- seaborn
