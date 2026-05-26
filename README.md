@@ -26,7 +26,8 @@ The project further includes:
 
 - Feature importance analysis
 - Descriptive statistics
-- Dataset
+
+## Dataset
 
 **This project uses the StudentLife Dataset, originally collected at Dartmouth College as part of the StudentLife study.**
 
